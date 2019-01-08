@@ -1,4 +1,4 @@
 # Medical-shop-Automation
 1.Install netbens
-2.Add project Folder
-3. Run the program
+Add project Folder in it,
+Run the program
